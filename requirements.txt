@@ -1,0 +1,6 @@
+torch
+pytorch-ignite
+transformers
+wikipewdia
+wolframalpha
+
